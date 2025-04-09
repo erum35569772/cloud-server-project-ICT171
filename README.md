@@ -17,4 +17,5 @@ https://drive.google.com/file/d/1wA46aWE35SlJAL0bTrIp_llBpTk4vQBH/view?usp=shari
 
 #Website Documentation
 Assignment2_ict171.docx
+https://github.com/erum35569772/cloud-server-project-ICT171/blob/main/Assignment2_ict171.docx?raw=true
 
