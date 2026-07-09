@@ -11,8 +11,7 @@ https://laibah.net/
 Server IP: 13.53.130.168 
 https://13.53.130.168/
 
-Video Explainer
-https://drive.google.com/file/d/1wA46aWE35SlJAL0bTrIp_llBpTk4vQBH/view?usp=sharing
+
  
 
 #Website Documentation
